@@ -1,3 +1,3 @@
 # testrepo
-##editing file
+## Editing file
 it is a test file
